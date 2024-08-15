@@ -1,4 +1,5 @@
 # Karaoke-Project
+![Alt text](<EDA Karaoke/README img/1696719209263-770387473SKY1V1.webp>)
 
 This repository contains:
 
@@ -26,7 +27,7 @@ Installation:
 
 3. Run karaoke.py from your terminal
 
-### What makes a good Karaoke song?
+### EDA Karaoke - What makes a good Karaoke song?
 
 In this analysis the Top 100 most streamed songs from spotify are compared to the Top 100 Karaoke songs. The Top 100 Karaoke songs are provided by this site: (https://www.singtotheworld.com/blog/100-most-popular-karaoke-songs-of-all-time). The Top 100 most streamed songs from Spotify are available as a Spotify Playlist or through this site: (https://kworb.net/spotify/songs.html).
 
