@@ -25,7 +25,7 @@ Installation:
 - openAI (including API Key which can be stored in an .env file)
 - dotenv
 
-3. Run karaoke.py from your terminal
+3. Run karaoke.py from your terminal - The Karaoke Video will be stored in the same directory
 
 ### EDA Karaoke - What makes a good Karaoke song?
 
